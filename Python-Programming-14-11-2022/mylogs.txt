@@ -1,0 +1,90 @@
+
+Drank Water At : ,<built-in method now of type object at 0x00007FF972EF9CD0>
+
+Drank Water At : ,<built-in method now of type object at 0x00007FF972EF9CD0>
+
+Eye Exercise At : ,<built-in method now of type object at 0x00007FF972EF9CD0>
+
+Drank Water At : ,<built-in method now of type object at 0x00007FF972EF9CD0>
+
+Physical Exercise At : ,<built-in method now of type object at 0x00007FF972EF9CD0>
+
+Drank Water At : ,<built-in method now of type object at 0x00007FF972EF9CD0>
+
+Eye Exercise At : ,<built-in method now of type object at 0x00007FF972EF9CD0>
+
+Drank Water At : ,<built-in method now of type object at 0x00007FF972EF9CD0>
+
+Drank Water At : ,<built-in method now of type object at 0x00007FF972EF9CD0>
+
+Drank Water At : ,<built-in method now of type object at 0x00007FF972EF9CD0>
+
+Drank Water At : ,<built-in method now of type object at 0x00007FF972EF9CD0>
+
+Eye Exercise At : ,<built-in method now of type object at 0x00007FF972EF9CD0>
+
+Drank Water At : ,<built-in method now of type object at 0x00007FF972EF9CD0>
+
+Drank Water At : ,<built-in method now of type object at 0x00007FF972EF9CD0>
+
+Physical Exercise At : ,<built-in method now of type object at 0x00007FF972EF9CD0>
+
+Drank Water At : ,<built-in method now of type object at 0x00007FF972EF9CD0>
+
+Eye Exercise At : ,<built-in method now of type object at 0x00007FF972EF9CD0>
+
+Drank Water At : ,<built-in method now of type object at 0x00007FF972EF9CD0>
+
+Drank Water At : ,<built-in method now of type object at 0x00007FF972EF9CD0>
+
+Drank Water At : ,<built-in method now of type object at 0x00007FF972EF9CD0>
+
+Drank Water At : ,<built-in method now of type object at 0x00007FF972EF9CD0>
+
+Eye Exercise At : ,<built-in method now of type object at 0x00007FF972EF9CD0>
+
+Drank Water At : ,<built-in method now of type object at 0x00007FF972EF9CD0>
+
+Physical Exercise At : ,<built-in method now of type object at 0x00007FF972EF9CD0>
+
+Drank Water At : ,<built-in method now of type object at 0x00007FF972EF9CD0>
+
+Eye Exercise At : ,<built-in method now of type object at 0x00007FF972EF9CD0>
+
+Drank Water At : ,<built-in method now of type object at 0x00007FF972EF9CD0>
+
+Drank Water At : ,<built-in method now of type object at 0x00007FF972EF9CD0>
+
+Eye Exercise At : ,<built-in method now of type object at 0x00007FF972EF9CD0>
+
+Physical Exercise At : ,<built-in method now of type object at 0x00007FF972EF9CD0>
+
+Drank Water At : ,<built-in method now of type object at 0x00007FF972EF9CD0>
+
+Drank Water At : ,2022-11-24 17:17:29.567537
+
+Eye Exercise At : ,2022-11-24 17:17:42.575107
+
+Drank Water At : ,2022-11-24 17:17:44.638305
+
+Physical Exercise At : ,2022-11-24 17:17:56.048259
+
+Drank Water At : ,2022-11-24 17:17:58.101976
+
+Eye Exercise At : ,2022-11-24 17:18:06.406933
+
+Drank Water At : ,2022-11-24 17:18:11.301967
+
+Drank Water At : ,2022-11-24 17:18:23.767007
+
+Eye Exercise At : ,2022-11-24 17:18:29.270368
+
+Physical Exercise At : ,2022-11-24 17:18:36.368909
+
+Drank Water At : ,2022-11-24 17:18:46.782610
+
+Drank Water At : ,2022-11-24 19:53:40.597396
+
+Eye Exercise At : ,2022-11-24 20:00:37.293052
+
+Physical Exercise At : ,2022-11-24 20:11:45.949952
